@@ -1,0 +1,35 @@
+
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>BiChien Shop</title>
+  <style>
+    body {
+      margin: 0;
+      padding: 30px 15px;
+      background: #10131c;
+      color: white;
+      font-family: Arial, sans-serif;
+      text-align: center;
+    }
+    h1 { color: #c5df61; }
+    .card {
+      background: #202638;
+      padding: 25px;
+      border-radius: 15px;
+      margin: 35px auto;
+      max-width: 350px;
+    }
+  </style>
+</head>
+<body>
+  <h1>BiChien Shop</h1>
+  <div class="card">
+    <h2>Chào mừng bạn!</h2>
+    <p>Website BiChien Shop v2 đã hoạt động.</p>
+    <p>Shop của bạn sắp lên mạng rồi!</p>
+  </div>
+</body>
+</html>
